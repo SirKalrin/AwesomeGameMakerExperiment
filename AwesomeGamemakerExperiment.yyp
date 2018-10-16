@@ -286,6 +286,25 @@
             }
         },
         {
+            "Key": "98fa2259-7752-4420-be43-f5de9f419b03",
+            "Value": {
+                "id": "4c4bb14e-4c21-4f4d-95cc-fa1e1d5805e1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/room_greis_works\/room_greis_works.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "a0fdf271-2100-4af0-9564-9955fd48638d",
             "Value": {
                 "id": "69fafc0b-5329-466e-8238-cd8f04ad6008",
@@ -338,7 +357,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\/room_veronika_works\/room_veronika_works.yy",
                 "resourceType": "GMRoom"
             }
         },

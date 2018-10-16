@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "room_veronika_works",
     "id": "cf580f0d-61f9-4a33-abbf-63f701f50248",
     "creationCodeFile": "",
     "inheritCode": false,
