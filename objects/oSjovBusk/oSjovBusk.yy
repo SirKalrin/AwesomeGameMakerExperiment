@@ -1,8 +1,8 @@
 {
-    "id": "7aa510f5-9994-4b62-980a-c0588bd032fc",
+    "id": "f33724c3-4b5f-4435-a750-4c1c59a6b657",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oEnemy",
+    "name": "oSjovBusk",
     "eventList": [
         
     ],
